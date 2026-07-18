@@ -74,13 +74,16 @@ docker compose up -d
 - [x] Squelette du repo et stack Docker Compose
 - [x] Détection d'erreurs applicatives et HTTP 5xx
 - [x] Détection de bruteforce SSH (extraction IP, seuils)
-- [ ] Intégration API Claude pour les explications (en attente de crédits API)
+- [x] Intégration API Claude pour les explications
 - [x] Alerting Slack
 - [x] Alerting e-mail
 - [x] Dashboards Grafana (volumes, incidents expliqués)
-- [ ] Documentation + captures d'écran
 
 ## 🛠️ Stack technique
 
 Docker · Docker Compose · Grafana Loki · Promtail · Grafana · Python · API
 Anthropic Claude · GitHub Actions · Trivy · Gitleaks · Dependabot
+
+## 👤 Auteur
+
+Fanambina — Étudiant DevOps, ASJA Antsirabe
